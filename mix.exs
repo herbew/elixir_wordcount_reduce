@@ -3,7 +3,7 @@ defmodule WordCountWithReduce.MixProject do
     
     def project do
         [
-          app: :wordcountwithreduce,
+          app: :elixir_wordcount_reduce,
           version: "0.1.0",
           start_permanent: Mix.env() == :prod
         ]
