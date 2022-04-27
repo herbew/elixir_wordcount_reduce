@@ -1,4 +1,4 @@
-# elixir_wordcount_reduce
+# Word count with reduce method
 Count word of text as array with array reduce method
 
 ## We used array with the reduce method.
